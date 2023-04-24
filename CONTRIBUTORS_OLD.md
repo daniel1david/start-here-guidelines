@@ -6307,6 +6307,8 @@
 
 - [@damyl4sure](https://github.com/damyl4sure)
 
+- [@daniel1david](https://github.com/daniel1david)
+
 - [@AyanDgr8](https://github.com/AyanDgr8)
 
 - [@abbazsrahman19](https://github.com/abbazsrahman19)
