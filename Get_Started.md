@@ -1,6 +1,6 @@
 # Getting Started
 
-Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in coding and programming, but in life.
+Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in coding and programming, but in life as well.
 
 It may appear to be a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
@@ -42,11 +42,11 @@ You can view all projects [here](https://github.com/zero-to-mastery).
 
 ## What is open source?
 
-Open source is the original way of creating software – in an open, transparent and collaborative manner. “[What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)" and “[What is open source?](https://opensource.com/resources/what-open-source)" are good overviews of the subject.
+Open source is the original way of creating software, i.e. an open, transparent and collaborative manner. “[What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)" and “[What is open source?](https://opensource.com/resources/what-open-source)" are good overviews of the subject.
 
 Open source means that you get the final executable for a software project, and also have access to the source code from which it was produced. Having access to the source code means that you can better understand how the program functions, and more importantly you can modify it to fix any problems you have with the software or add new features that you desire.
 
-What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well: for example, the Linux kernel contains more than 4,000 man years worth of effort.
+What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well, for example, the Linux kernel contains more than 4,000 man years worth of effort.
 
 ## Why would I want to contribute?
 
